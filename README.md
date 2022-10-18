@@ -6,20 +6,20 @@ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 <br>
 
 ## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- GitBash
 - HTML e CSS
 - JavaScript e JSON
+  <br>
 
 ## 💻 Desafio do Projeto
 
 Repositorio criado para o Desafio do Projeto sobre Git/GitHub
+<br>
 
 ## 🔖 Layout
 
-
-
-## :memo: Licença
-
-
+<br>
 
