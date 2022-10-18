@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Desafio do Projeto
 
-Desafio do Projeto sobre Git/GitHub
+Repositorio criado para o Desafio do Projeto sobre Git/GitHub
 
 ## 🔖 Layout
 
