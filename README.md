@@ -18,7 +18,7 @@ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
 **🚀 Pré-requisitos:**
 
-[] Conhecimento Básico em Git e GitHub;
+[X] Conhecimento Básico em Git e GitHub;
 
 <br>
 
@@ -35,7 +35,6 @@ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 **Ferramentas de Desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-https://code.visualstudio.com/download
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -48,9 +47,7 @@ https://code.visualstudio.com/download
 <a href="https://github.com/emersonfsti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonfsti&theme=dracula&show_icons=true" />
 </a>
-
 <br/>
-
 <h3> &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: emersonfsti](https://img.shields.io/badge/-emersonfsti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/emersonfsti)](www.linkedin.com/in/emersonfsti)
@@ -58,16 +55,16 @@ https://code.visualstudio.com/download
 [![GitHub emersonfsti](https://img.shields.io/github/followers/emersonfsti?label=follow&style=social)]("https://github.com/emersonfsti")
 
 <br>
-
 <hr>
-
 <br>
 
 ## 🔖 Minhas Skills Atual
+
 <br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
+<br>
+<hr>
 ## 🔖 Minhas Futuras Skills
 
 <br>
