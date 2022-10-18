@@ -5,21 +5,23 @@ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 </p>
 <img align='right'  alt="gitLogo" src="img/logo.png" width="20%">
 <br>
-<h2 align="left"> ## 🚀 Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<h2 align="left"> 
+<br>
+<hr>
+<h2>## 💻 Desafio do Projeto</h2>
 
-- [x] GitBash
-- [ ] HTML
-- [ ] JavaScript
-- [ ] Exemplo...
+<p>Reforce seu conhecimento em Git com um desafio de projeto totalmente prático,
+<p>onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. 
+<p>Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. 
+<p>Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. 
+<p>Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
+
+**🚀 Pré-requisitos:**
+
+[] Conhecimento Básico em Git e GitHub;
 
 <br>
 
-## 💻 Desafio do Projeto
-
-Repositorio criado para o Desafio do Projeto sobre Git/GitHub
-
-<br>
 <hr>
 
 **DevOps**
@@ -33,6 +35,7 @@ Repositorio criado para o Desafio do Projeto sobre Git/GitHub
 **Ferramentas de Desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+https://code.visualstudio.com/download
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -40,6 +43,7 @@ Repositorio criado para o Desafio do Projeto sobre Git/GitHub
 
 <br/>
 ## ⭐ Informações sobre minha conta GitHub
+<br>
 
 <a href="https://github.com/emersonfsti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonfsti&theme=dracula&show_icons=true" />
